@@ -1,0 +1,16 @@
+# 環境変数
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+
+# Claude Code
+.claude/
